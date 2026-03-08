@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hi 👋 I'm Sindhuja<br>🎓 B.Tech Student | 💻 Aspiring Software Developer | 🚀 Tech Enthusiast<br><br>🔭 I’m currently a B.Tech student exploring programming and software development.<br><br>🌱 I’m currently learning and improving my skills in Python, Java, and C programming.<br><br>👯 I’m looking to collaborate on beginner-friendly coding projects and open-source projects.<br><br>🤝 I’m looking for help with improving problem-solving skills and learning new technologies.<br><br>💬 Ask me about Python, Java basics, C programming.<br><br>⚡ Fun fact: I enjoy learning new programming concepts and solving coding problems.
+#  About Me:
+Hi I'm Sindhuja<br> B.Tech Student |  Aspiring Software Developer |  Tech Enthusiast<br><br> I’m currently a B.Tech student exploring programming and software development.<br><br> I’m currently learning and improving my skills in Python, Java, and C programming.<br><br> I’m looking to collaborate on beginner-friendly coding projects and open-source projects.<br><br> I’m looking for help with improving problem-solving skills and learning new technologies.<br><br> Ask me about Python, Java basics, C programming.<br><br> Fun fact: I enjoy learning new programming concepts and solving coding problems.
 
 
 # 💻 Tech Stack:
